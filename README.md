@@ -1,4 +1,4 @@
-# CPU-Scheduling-Simulator
+# SchedX : CPU-Scheduling-Simulator
 
 ## Table of Contents
 - [Overview](#overview)
